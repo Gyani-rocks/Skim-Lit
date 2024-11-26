@@ -1,7 +1,7 @@
 # Skim-Lit
 This is an end-to-end tensorflow project that is based on the concepts of deep learning and natural language processing. Here we're going to be replicating the deep learning model behind the 2017 paper PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts. When it was released, the paper presented a new dataset called PubMed 200k RCT which consists of ~200,000 labelled Randomized Controlled Trial (RCT) abstracts. The goal of the dataset was to explore the ability for NLP models to classify sentences which appear in sequential order.
 
-## What we are going to cover (broadly):
+## What I have covered (broadly):
 
 1. Downloading a text dataset (PubMed RCT200k from GitHub)
 2. Writing a preprocessing function to prepare our data for modelling
